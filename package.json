@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/adarvin14/npm-lab-onl01-seng-ft-090820/issues"
   },
-  "homepage": "https://github.com/adarvin14/npm-lab-onl01-seng-ft-090820#readme",
-  "dependencies": {
-    "moment": "^2.29.1"
-  }
+  "homepage": "https://github.com/adarvin14/npm-lab-onl01-seng-ft-090820#readme"
 }
