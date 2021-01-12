@@ -1,0 +1,21 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color clock app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Queentesa",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
